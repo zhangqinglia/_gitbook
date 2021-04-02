@@ -1,0 +1,24 @@
+{
+  "name": "_gitbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangqinglia/_gitbook.git"
+  },
+  "keywords": [],
+  "author": "zhangqinglia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangqinglia/_gitbook/issues"
+  },
+  "homepage": "https://github.com/zhangqinglia/_gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "dependencies": {}
+}
